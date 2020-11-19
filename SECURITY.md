@@ -14,8 +14,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+As of ARM DOS v1.0.0, ARM DOS is open-source as long as the versions are deprecated or stop recevieing security patches or updates
+To report a vunerability, please report it at the issues section and it should be resolved within 6-5 days! All security vunerabilities are important!
