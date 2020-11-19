@@ -10,3 +10,7 @@ Here's the links for the emulators
 http://ivanx.com/raspberrypi/raspberrypi_emulators.html (Raspberry Pi)
 https://github.com/linappleii/linapple (Linux)
 https://github.com/AppleWin/AppleWin (Windows)
+
+New info:
+We have open the beta for ARM DOS v2.0.1!
+It's located in the releases section
