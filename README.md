@@ -12,5 +12,5 @@ https://github.com/linappleii/linapple (Linux)
 https://github.com/AppleWin/AppleWin (Windows)
 
 New info:
-We have open the beta for ARM DOS v2.0.1!
+We have open the beta for ARM DOS Pro v2.0.1!
 It's located in the releases section
