@@ -11,6 +11,7 @@ http://ivanx.com/raspberrypi/raspberrypi_emulators.html (Raspberry Pi)
 https://github.com/linappleii/linapple (Linux)
 https://github.com/AppleWin/AppleWin (Windows)
 
-New info:
+# New info:
 We have open the beta for ARM DOS Pro v2.0.1!
 It's located in the releases section
+Beta to open soon for ARM DOS v2.0.1 by November 30th!
