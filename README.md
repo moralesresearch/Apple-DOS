@@ -1,4 +1,4 @@
-# ARM Disk Operating System (DOS)
+# ARM Disk Operating System (DOS) v2.0
 ARM DOS .dsk image Version 2.0, with IntBASIC 7
 The next release will be ARM DOS v2.0.1 with IntBASIC 7.1
 You can download this file and modify it for your own personal use...as of October 28th, 2020 ARM DOS v1.0 has depricated since ARM DOS v2.0 has been released
