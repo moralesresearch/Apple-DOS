@@ -17,3 +17,7 @@ It's located in the releases section
 Beta to open soon for ARM DOS v2.0.1 by November 30th!
 
 SU1 --> Security Update 1 has been release for all latest and supported releases of ARM DOS!
+
+ARM DOS v1.0.0 has moved to our open-source repository
+Here's the link:https://github.com/Server2356/Open-Source
+Thanks for using our operating system!
