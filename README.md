@@ -20,6 +20,10 @@ SU1 --> Security Update 1 has been release for all latest and supported releases
 
 SU2 --> Expect to be released around December 1
 
+SU3 --> Expect to release around December 20th
+
+ARM DOS Pro v2.5 in alpha development expect to release for around December 24 with SU2 or SU3 patches
+
 ARM DOS v1.0.0 has moved to our open-source repository
 Here's the link:https://github.com/Server2356/Open-Source
 Thanks for using our operating system!
