@@ -27,3 +27,4 @@ ARM DOS Pro v2.5 in alpha development expect to release for around December 24 w
 ARM DOS v1.0.0 has moved to our open-source repository
 Here's the link:https://github.com/Server2356/Open-Source
 Thanks for using our operating system!
+Happy Thanksgiving!!
