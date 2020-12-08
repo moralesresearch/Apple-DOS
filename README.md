@@ -18,9 +18,9 @@ Beta to open soon for ARM DOS v2.0.1 by November 30th!
 
 SU1 --> Security Update 1 has been release for all latest and supported releases of ARM DOS!
 
-SU2 --> Expect to be released around December 1
+SU2 --> Expect to be released around December 10
 
-SU3 --> Expect to release around December 20th
+SU3 --> Expect to release around December 25th (Christmas)
 
 ARM DOS Pro v2.5 in alpha development expect to release for around December 24 with SU2 or SU3 patches
 
