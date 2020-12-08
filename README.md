@@ -5,7 +5,7 @@ You can download this file and modify it for your own personal use...as of Octob
 To run ARM DOS you need LinApple (Linux/ARM) or AppleWin (For Windows)
 ARM DOS v1.0 introduces a command-line interface for the Apple II series (excluding the Apple IIgs) which add BASIC and IntBASIC (C) MRC
 In ARM DOS Pro, we include IntBASIC Pro v1.0 R2 and AP/M which Apple Program/Monitor v2.0
-
+THIS OS CAN BE USED SAFELY ON REAL HARDWARE (Except for the Apple IIgs)
 Here's the links for the emulators
 http://ivanx.com/raspberrypi/raspberrypi_emulators.html (Raspberry Pi)
 https://github.com/linappleii/linapple (Linux)
