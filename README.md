@@ -14,15 +14,13 @@ https://github.com/AppleWin/AppleWin (Windows)
 # New info:
 We have open the beta for ARM DOS Pro v2.0.1!
 It's located in the releases section
-Beta to open soon for ARM DOS v2.0.1 by November 30th!
+Beta to open soon for ARM DOS v2.5 by December 10th!
 
-SU1 --> Security Update 1 has been release for all latest and supported releases of ARM DOS!
-
-SU2 --> Expect to be released around December 10
+SU2 --> Released to ARM DOS except for v1.0.0 (deprecated)
 
 SU3 --> Expect to release around December 25th (Christmas)
 
-ARM DOS Pro v2.5 in alpha development expect to release for around December 24 with SU2 or SU3 patches
+ARM DOS Pro v2.5 in alpha development expect to release for around December 24 with SU3 patches or SP1 (Service Pack)
 
 SP1 -----> Has been released to ARM DOS v2.0.0 and soon to follow for 2.0.x and above
 
