@@ -13,7 +13,7 @@ currently being supported with security updates.
 | 1.0.0   | :x:                |
 
 ## Security Updates
-Currently there are no security updates in the roadmap, but expect around November 30th
+SU1 security update has been released!
 ## Reporting a Vulnerability
 
 As of ARM DOS v1.0.0, ARM DOS is open-source as long as the versions are deprecated or stop recevieing security patches or updates
