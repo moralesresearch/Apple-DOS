@@ -1,4 +1,4 @@
-# ARM Disk Operating System (DOS) v2.5
+# Apple Disk Operating System (DOS) v2.5
 
 You can download this file and modify it for your own personal use...as of October 28th, 2020 ARM DOS v1.0 has depricated since ARM DOS v2.0 has been released
 To run ARM DOS you need LinApple (Linux/ARM) or AppleWin (For Windows)
