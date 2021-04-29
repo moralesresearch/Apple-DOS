@@ -16,6 +16,4 @@ https://github.com/AppleWin/AppleWin (Windows)
 
 SP1 -----> Has been released to ARM DOS v2.0.0 and soon to follow for 2.0.x and above
 
-ARM DOS v1.0.0 has moved to our open-source repository
-Here's the link:https://github.com/abdonmorales/Open-Source
-Thanks for using our operating system!
+Thanks for using our operating system! 🖥️
