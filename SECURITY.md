@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.0.x   | :white_check_mark: | ---> Has recieved new SU1 update
+| 2.0.x   | :white_check_mark: | ---> No longer recieves SU updates
 | 2.0.0   | :white_check_mark: | ---> Has recieved new SU1 update
 | 1.0.x   | :white_check_mark: | ---> Has recieved new SU1 update
 | 1.0.0   | :x:                |
